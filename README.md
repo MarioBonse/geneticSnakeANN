@@ -52,8 +52,15 @@ Below you can see an example of how the evolution process works. As can be seen 
 
 In this example, where the snakes were playing in a 8x8 field, after around 260 genereations they understood how to reach the maximum possible fitness of 64 :metal:
 
-![](https://github.com/AlbertoLanaro/geneticSnakeANN/blob/master/doc/fitness.png?raw=true)
-![](https://github.com/AlbertoLanaro/geneticSnakeANN/blob/lanarodev/doc/snake_evolution.gif?raw=true)
+<div>
+<img src="https://github.com/AlbertoLanaro/geneticSnakeANN/blob/master/doc/fitness.png?raw=true" width="320" height="400" />
+</div>
+  
+<div>
+<img src="https://github.com/AlbertoLanaro/geneticSnakeANN/blob/master/doc/snake_evolution.gif?raw=true" width="320" height="400" />
+</div>
+
+
 
 ### Snake with Borders 
 Here we present an example of how a trained snake performs playing with the border mode turned on.
