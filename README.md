@@ -68,6 +68,8 @@ Here we present an example of how a trained snake performs playing with the bord
 <div align="center">
 <img src="https://github.com/AlbertoLanaro/geneticSnakeANN/blob/master/doc/single_border.gif?raw=true" width="450" height="450" />
 </div>
+
+
 ### Snake without Borders
 Here we present an example of how a trained snake performs playing in a borderless environment.
 
@@ -76,6 +78,8 @@ single_border
 <div align="center">
 <img src="https://github.com/AlbertoLanaro/geneticSnakeANN/blob/master/doc/single_no_borders.gif?raw=true" width="450" height="450" />
 </div>
+
+
 ## Future Works
 In order to achieve better performance we are investigating different input types and different ANN setups. One of the possible next steps is to introduce a more complex model for the snake brain such as a LSTM network (in order to capture the sequentiality of the events) or a CNN.
 
