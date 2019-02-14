@@ -53,11 +53,11 @@ Below you can see an example of how the evolution process works. As can be seen 
 In this example, where the snakes were playing in a 8x8 field, after around 260 genereations they understood how to reach the maximum possible fitness of 64 :metal:
 
 <div>
-<img src="https://github.com/AlbertoLanaro/geneticSnakeANN/blob/master/doc/fitness.png?raw=true" width="320" height="400" />
+<img src="https://github.com/AlbertoLanaro/geneticSnakeANN/blob/master/doc/fitness.png?raw=true" width="450" height="450" />
 </div>
   
 <div>
-<img src="https://github.com/AlbertoLanaro/geneticSnakeANN/blob/master/doc/snake_evolution.gif?raw=true" width="320" height="400" />
+<img src="https://github.com/AlbertoLanaro/geneticSnakeANN/blob/master/doc/snake_evolution.gif?raw=true" width="450" height="450" />
 </div>
 
 
@@ -65,13 +65,17 @@ In this example, where the snakes were playing in a 8x8 field, after around 260 
 ### Snake with Borders 
 Here we present an example of how a trained snake performs playing with the border mode turned on.
 
-![](https://github.com/AlbertoLanaro/geneticSnakeANN/blob/master/doc/single_border.gif)
-
+<div>
+<img src="https://github.com/AlbertoLanaro/geneticSnakeANN/blob/master/doc/single_border.gif?raw=true" width="450" height="450" />
+</div>
 ### Snake without Borders
 Here we present an example of how a trained snake performs playing in a borderless environment.
 
-![](https://github.com/AlbertoLanaro/geneticSnakeANN/blob/lanarodev/doc/single_no_borders.gif?raw=true)
+single_border
 
+<div>
+<img src="https://github.com/AlbertoLanaro/geneticSnakeANN/blob/master/doc/single_no_borders.gif?raw=true" width="450" height="450" />
+</div>
 ## Future Works
 In order to achieve better performance we are investigating different input types and different ANN setups. One of the possible next steps is to introduce a more complex model for the snake brain such as a LSTM network (in order to capture the sequentiality of the events) or a CNN.
 
